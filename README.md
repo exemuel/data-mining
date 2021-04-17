@@ -5,7 +5,7 @@ Python implementation of Data Mining
 * [Data Preprocessing](#data-preprocessing)
 * [Association Analysis](#association-analysis)
 * [Predictive Analysis](#predictive-analysis)
-* [Cluster Analysis](#cluster Analysis)
+* [Cluster Analysis](#cluster-analysis)
 
 
 ## Data Preprocessing
